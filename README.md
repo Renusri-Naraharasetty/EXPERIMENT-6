@@ -1,5 +1,6 @@
 # EXPERIMENT-6
-## AIM:To write a Python program for checking Palindrome and to write test cases for ir. 
+## AIM:
+To write a Python program for checking Palindrome and to write test cases for ir. 
 
 ## ALGORITHM
 
